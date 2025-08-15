@@ -27,7 +27,3 @@ db.sqlite3
 # Django static/media build outputs
 staticfiles/
 media/
-
-# Docker artifacts
-Dockerfile
-.dockerignore
